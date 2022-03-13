@@ -1,0 +1,13 @@
+[global]
+developmentMode = false
+
+[server]
+port = 8501
+
+[theme]
+base="dark"
+primaryColor="#ffd60a"
+backgroundColor="#000814"
+secondaryBackgroundColor="#001d3d"
+textColor="#ffffff"
+font="monospace"
